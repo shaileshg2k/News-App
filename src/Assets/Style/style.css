@@ -1,0 +1,22 @@
+.background{
+    background-color: rgb(104, 35, 153);
+}
+.heading{
+    font-size: 15px;
+    height: 75px;
+}
+.desc{
+    font-size: 13px;
+    height: 150px;
+}
+.mybtn:hover{
+    background-color: rgb(104, 35, 153);
+}
+.source{
+    background-color: rgb(193, 198, 203);
+    text-align: center;
+}
+body{
+    overflow-x: hidden;
+}
+
